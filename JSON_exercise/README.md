@@ -11,6 +11,7 @@ Using data in file 'data/world_bank_projects.json' and the techniques demonstrat
 Ten countries with the most projects:
 
 People's Republic of China         19
+
 Republic of Indonesia              19
 Socialist Republic of Vietnam      17
 Republic of India                  16
